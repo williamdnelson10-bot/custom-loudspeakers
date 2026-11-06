@@ -31,8 +31,8 @@ We used an orbital sander as a first pass to smooth things out. Afterwards, we s
 | <img src="Photos/Main%20Photos/painting_setup.jpg" width="350"> | <img src="Photos/Main%20Photos/surround_speaker.jpeg" width="350"> |
 
 ## Wiring and Testing
-We trimmed and ran a pair of wires through each speaker box to later be connected to the home audio setup. These wires connect to crossovers we made, which controls which frequencies are sent to the driver. We soldered the wires together at each connection, and connected everything to the drivers inside the boxes. The circut diagram below shows all of the components and connections. Once assembled, we tested the speakers for air leaks and other issues. After confirming that they worked as expected, we cleaned them up, added felt covers to the fronts, and packaged them to be taken to their destination.
+We trimmed and ran a pair of wires through each speaker box to later be connected to the home audio setup. These wires connect to crossovers we made, which controls which frequencies are sent to the driver. We soldered the wires together at each connection, and connected everything to the drivers inside the boxes. The circuit diagram below shows all of the components and connections. Once assembled, we tested the speakers for air leaks and other issues. After confirming that they worked as expected, we cleaned them up, added felt covers to the fronts, and packaged them to be taken to their destination.
 
-| [Surround Speaker Crossover](Photos/Main%20Photos/Surrounds%20Crossover.jpg) | [Circut Diagram](Photos/Main%20Photos/circut_diagram.jpg) |
+| [Surround Speaker Crossover](Photos/Main%20Photos/Surrounds%20Crossover.jpg) | [Circuit Diagram](Photos/Main%20Photos/circuit_diagram.jpg) |
 |:---:|:---:|
-| <img src="Photos/Main%20Photos/Surrounds%20Crossover.jpg" width="350"> | <img src="Photos/Main%20Photos/circut_diagram.jpg" width="350"> |
+| <img src="Photos/Main%20Photos/Surrounds%20Crossover.jpg" width="350"> | <img src="Photos/Main%20Photos/circuit_diagram.jpg" width="350"> |
