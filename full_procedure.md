@@ -1,4 +1,5 @@
 ## Full Assembly Process
+This procedure doesn't include every little detail, like how we made the crossovers, how we tested them, etc. but it goes over the main stuff. This was also written with the surround speakers in mind, so the exact details might vary slightly with the other speakers.
 1. My dad did most of the designing using solidworks, but he talked me through some of the choices he made, particularly as it relates to the way that you have to design parts so that they're easier to assemble, and all fit together properly.
 2. He showed me how to convert the solidworks file into a toolpath program, then into a CAM program to be able to create the parts on a CNC machine.
 3. We used the program we created to cut out the parts for the speaker boxes.
