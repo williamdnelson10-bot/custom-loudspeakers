@@ -1,7 +1,7 @@
 # Custom High-end Speakers
 
 ## Overview
-This project involved designing and building custom high-end speakers for a customer's personal speaker system. My dad runs a small business named Portland Audio Lab, and over the course of a month, I helped my dad assemble 21 speakers, consisting of 6 subs (4 front and 2 back subs), 12 surround speakers, and 3 front speakers. I mostly worked on the surround speakers, but helped a bit on the others as well. There's a more detailed account of what we did [here](full_procedure.md). I'm just going to summarize it.
+This project involved designing and building custom high-end speakers for a customer's personal speaker system. My dad runs a small business named Portland Audio Lab, and over the course of a month, I helped assemble 21 speakers, consisting of 6 subs (4 front and 2 back subs), 12 surround speakers, and 3 front speakers. I mostly worked on the surround speakers, but helped a bit on the others as well. There's a more detailed account of what we did [here](full_procedure.md). I'm just going to summarize it.
 
 | [Building Front Speaker](Photos/Main%20Photos/front_speaker_assembly.jpeg) | [Front Speaker](Photos/Main%20Photos/front_speaker2.jpg) |
 |:---:|:---:|
